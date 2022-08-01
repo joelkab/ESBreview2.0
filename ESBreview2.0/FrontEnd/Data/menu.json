@@ -1,0 +1,71 @@
+[
+			{
+                "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+				"name": "Meepo Hurrican",
+                "imagename": "Meepo_Hurrican",
+				"photoCredit": "Meepo",
+				"price": 1799,
+                "TopSpeed": 35,
+                "Link": "https://boostedusa.com/products/boosted-mini-x",
+				"ExtraImages": ["boostedMini 1","Meepo_Hurrican","BoostedMini 3"],
+				"description": "Sweet, fluffy, and served piping hot, our French toast is flown in fresh every day from Maple City, Canada, which is where all maple syrup in the world comes from. And if you believe that, we have some land to sell you…"
+			},
+			{
+                "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+				"name": "Evolve Hadean Carbon",
+                "imagename": "EvolveHadeanCarbon",
+				"photoCredit": "Evolve",
+				"price": 2749.00,
+                "TopSpeed": 31,
+                "Link": "https://boostedusa.com/products/boosted-mini-x",
+				"ExtraImages": ["boostedMini 1","Meepo_Hurrican","BoostedMini 3"],
+				"description": "Top speed of 50kph Dual 3000w motors (Enough power to make it up the world’s steepest street with ease 65km Range New heavy-duty Phaze remote (LCD display + 4 adjustable speed modes)  Smart integrated lighting (Responsive brake, fault/battery status, + full-colour customisation & animation sequences)  Explore By Evolve in-app customisation (Adjust lighting hues + acceleration & braking curves  New E-FOC motor controller (Smooth control of Hadean’s intense power)  Forged carbon fibre (Used on supercars for its lightweight strength)  Patent Pending deck (Maximum performance without bulk + cooling air vents)"
+			},
+			{
+                "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+				"name": "Meepo NLS Pro",
+                "imagename": "MeepoNLSpro",
+				"photoCredit": "Meepo",
+				"price": 709,
+                "TopSpeed": 34,
+                "Link": "https://www.meepoboard.com/products/nls-pro?rfsn=1871991.b9dd88&utm_campaign=1871991.b9dd88&utm_medium=affiliate&utm_source=refersion",
+				"ExtraImages": ["MeepoNLSpro","MeepoNLSpro2","MeepoNLSpro3"],
+				"description": "Range:  20 Miles Top Speed: 34 Deck:  The 38 longboard electric skateboard is a great length for taller riders, or for those riders looking for a longer electric board with robust capabilities Wheels:  The board comes with 100 mm front wheels and shredder trucks with tall bushings to absorb shocks Hill Climbing:  up to 30% grade and this powerhouse can climb hills with riders up to 330 lbs (150 kg)"
+			},
+			{
+                "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+				"name": "Boosted Mini X",
+                "imagename": "boostedMini 1",
+				"photoCredit": "Kavita Joshi Rai",
+				"price": 999,
+                "TopSpeed": 20,
+                "Link": "https://boostedusa.com/products/boosted-mini-x",
+				"ExtraImages": ["boostedMini 1","boostedmini 2","BoostedMini 3"],
+				"description": "Range: Travel up to 14 miles on the extended range battery.  Top Speed: An exhilarating top speed of 20 mph gets you there faster.  Hill Climbing: Belt drive reliably keeps you trucking up slopes up to a hair-raising 20% grade.  Ride Modes: 3 ride modes, specifically tuned to Boosted Mini.  Wheels: Boosted Lunar 80mm for a super smooth roll.  Deck: Deep Dish composite deck keeps you locked in.  Braking: Regenerative and reliable.Come to a smooth stop from any speed.  Remote: Ergonomic and Bluetooth™ enabled. Control your speed with comfort and ease."
+                
+			},
+			{
+                "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+				"name": "BoostedStealth",
+                "imagename": "boostedstealth_1",
+				"photoCredit": "Boosted",
+				"price": 1279,
+                "TopSpeed": 34,
+                "Link": "https://boostedusa.com/products/boosted-stealth?afftrack=1653672842190w7m5&variant=31964889710703",
+				"ExtraImages": ["boostedstealth_1","boostedstealth_2","boostedstealth_3"],
+				"description": "Range: Up to 14 Miles  Top Speed:  Up to 24 mph  Hill Climbing: Up to 25% Grade  Ride Modes: 5 Ride Modes  Weight: 17 lbs  Dimensions:11.3 in (W), 38.0 in (L), 5.7 in (H)  Power: 2,100 Watts  Braking: Regenerative Brakes  Deck: Super Flex Composite Deck  Wheels: Boosted Stratus 85mm."
+                
+			},
+			{
+                "id": "190E1A9D-20A4-4F98-AA54-B192E1C4D7B9",
+				"name": "Meepo V3",
+                "imagename": "Meepo-V31",
+				"photoCredit": "Meepo",
+				"price": 449,
+                "TopSpeed": 28,
+                "Link": "https://www.meepoboard.com/products/refurbished-skateboard",
+				"ExtraImages": ["Meepo-V31","Meepo-V32","Meepo-V33"],
+                "description": "Top Speed: 28 mp/h  Weight: Despite weighing just 16 lbs, the Meepo V3 supports up to 300 lbs (136 kg)  Rage: 11-20 miles  Wheels: Comes with 90mm wheels  MotorSize: Powered by two 540W hub motors for a max. output of 1080W"
+                
+			}
+]
