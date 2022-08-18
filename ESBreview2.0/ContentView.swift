@@ -12,6 +12,7 @@ struct ContentView: View {
     @ObservedObject var sessionStore = SessionStore()
     @ObservedObject var viewModel = MessagesViewModel()
     
+    
     init(){
         sessionStore.listen()
     }
