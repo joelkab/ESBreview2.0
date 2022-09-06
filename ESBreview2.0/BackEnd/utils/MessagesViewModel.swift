@@ -15,6 +15,7 @@ import FirebaseStorage
 struct Message: Codable, Identifiable {
     var id: String?
     var content: String
+    var baordname: String
     var name: String
     var pic: String
     
@@ -39,7 +40,7 @@ class MessagesViewModel: ObservableObject {
     
     
     
-    func sendMessage(messageContent: String, docId: String) {
+    func sendMessage(messageContent: String, docId: String, Boardname : String) {
         
         let imageUrl = UserDefaults.standard.url(forKey: "image_url")
         let imageString = imageUrl?.absoluteString
@@ -51,6 +52,7 @@ class MessagesViewModel: ObservableObject {
                                                                                             "displayName": user!.email as Any,
                                                                                             "imageUrl": imageString as Any,
                                                                                             "content": messageContent,
+                                                                                            "boardname": Boardname,
 
                                                                                             "sender": user!.uid])
             print("this is the secound url: \(picurl as Any)")
@@ -68,11 +70,12 @@ class MessagesViewModel: ObservableObject {
                 self.messages = documents.map { docSnapshot -> Message in
                     let data = docSnapshot.data()
                     let docId = docSnapshot.documentID
+                    let boardName = data["boardname"] as? String ?? ""
                    
                     let content = data["content"] as? String ?? ""
                     let displayName = data["displayName"] as? String ?? ""
                     let pic = data["imageUrl"] as? String ?? ""
-                    return Message(id: docId, content: content, name: displayName, pic: pic)
+                    return Message(id: docId, content: content, baordname: boardName, name: displayName, pic: pic)
                     
                 }
             })

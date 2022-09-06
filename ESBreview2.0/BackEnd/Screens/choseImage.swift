@@ -11,7 +11,7 @@ struct choseImage: View {
     
     
     var body: some View {
-        Text("welcome to image picker ")
+        Text("welcome to image picker !!")
     }
 }
 

@@ -36,8 +36,8 @@
 		0C6758AF28614034009216A5 /* data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6758AE28614034009216A5 /* data.swift */; };
 		0C6758B1286140DE009216A5 /* frontviewmodle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6758B0286140DE009216A5 /* frontviewmodle.swift */; };
 		0C6758B32861517F009216A5 /* homeviewtest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6758B22861517F009216A5 /* homeviewtest.swift */; };
+		0C6C91DE28C6E16D00CD74AE /* PostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C91DD28C6E16D00CD74AE /* PostView.swift */; };
 		0CA3E7B72865416500C139F3 /* Tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CA3E7B62865416500C139F3 /* Tools.swift */; };
-		0CB4F193284D909800CFEA0A /* PostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CB4F192284D909800CFEA0A /* PostView.swift */; };
 		0CEB0D4C284D7CE800A5CC55 /* FireBaseUpload.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CEB0D4B284D7CE800A5CC55 /* FireBaseUpload.swift */; };
 		0CEB0D4E284D7D1400A5CC55 /* Messages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CEB0D4D284D7D1400A5CC55 /* Messages.swift */; };
 		0CEB0D52284D821500A5CC55 /* FirebaseImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CEB0D51284D821500A5CC55 /* FirebaseImageView.swift */; };
@@ -67,8 +67,8 @@
 		0C6758AE28614034009216A5 /* data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = data.swift; sourceTree = "<group>"; };
 		0C6758B0286140DE009216A5 /* frontviewmodle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = frontviewmodle.swift; sourceTree = "<group>"; };
 		0C6758B22861517F009216A5 /* homeviewtest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeviewtest.swift; sourceTree = "<group>"; };
+		0C6C91DD28C6E16D00CD74AE /* PostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostView.swift; sourceTree = "<group>"; };
 		0CA3E7B62865416500C139F3 /* Tools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tools.swift; sourceTree = "<group>"; };
-		0CB4F192284D909800CFEA0A /* PostView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PostView.swift; path = ../../../../../../Downloads/ESBreview2.0/ESBreview2.0/BackEnd/Screens/PostView.swift; sourceTree = "<group>"; };
 		0CEB0D4B284D7CE800A5CC55 /* FireBaseUpload.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FireBaseUpload.swift; sourceTree = "<group>"; };
 		0CEB0D4D284D7D1400A5CC55 /* Messages.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Messages.swift; path = ../../../../../../Downloads/ESBreview2.0/ESBreview2.0/BackEnd/utils/BackEnd/Screens/Messages.swift; sourceTree = "<group>"; };
 		0CEB0D51284D821500A5CC55 /* FirebaseImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FirebaseImageView.swift; path = ../../../../../../Downloads/ESBreview2.0/ESBreview2.0/BackEnd/utils/FirebaseImageView.swift; sourceTree = "<group>"; };
@@ -192,7 +192,7 @@
 				0C2AB8CB2847FB3300BCECE8 /* Login.swift */,
 				0C2AB8CC2847FB3300BCECE8 /* choseImage.swift */,
 				0CEB0D4D284D7D1400A5CC55 /* Messages.swift */,
-				0CB4F192284D909800CFEA0A /* PostView.swift */,
+				0C6C91DD28C6E16D00CD74AE /* PostView.swift */,
 				0C2AB8CE2847FB3300BCECE8 /* SignUp.swift */,
 				0C2AB8D02847FB3300BCECE8 /* ChatView.swift */,
 			);
@@ -304,10 +304,10 @@
 				0C2AB8882847F56800BCECE8 /* ESBreview2_0App.swift in Sources */,
 				0C2AB8A22847F61B00BCECE8 /* HomeView.swift in Sources */,
 				0C2AB8D22847FB3300BCECE8 /* Login.swift in Sources */,
-				0CB4F193284D909800CFEA0A /* PostView.swift in Sources */,
 				0C2AB8D52847FB3300BCECE8 /* SignUp.swift in Sources */,
 				0C2AB8A02847F61B00BCECE8 /* Menu.swift in Sources */,
 				0C6758B32861517F009216A5 /* homeviewtest.swift in Sources */,
+				0C6C91DE28C6E16D00CD74AE /* PostView.swift in Sources */,
 				0C6758B1286140DE009216A5 /* frontviewmodle.swift in Sources */,
 				0C2AB8D72847FB3300BCECE8 /* ChatView.swift in Sources */,
 				0CEB0D52284D821500A5CC55 /* FirebaseImageView.swift in Sources */,

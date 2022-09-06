@@ -28,7 +28,7 @@ struct SignUp: View {
                 .font(.title)
             
 
-            
+        
             
             TextField("Email",text: $email)
                 .textFieldStyle(RoundedBorderTextFieldStyle())
