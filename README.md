@@ -5,6 +5,17 @@
 
 ESB(Electric Skateboard Review) is an application where peopele with the intrest of Electric skate boards can share thier experience of buying an eletric Skateboard, useful tips or the topic itself.
 
+## Features
+
+- Real Time Updation
+- Login / Signup authentication
+
+
+## Packages 
+-  [Kingfisher](https://github.com/joelkab))
+- [FirebaseSDK](https://github.com/firebase/firebase-ios-sdk))
+
+
 ## Authors
 
 - [@JoelKabura](https://github.com/joelkab)
