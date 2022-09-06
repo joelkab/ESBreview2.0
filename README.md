@@ -13,11 +13,13 @@ ESB(Electric Skateboard Review) is an application where peopele with the intrest
 
 - Real Time Updation
 - Login / Signup authentication
+- Image Upload
 
 
 ## Packages 
 -  [Kingfisher](https://github.com/joelkab)
 - [FirebaseSDK](https://github.com/firebase/firebase-ios-sdk)
+
 
 
 ## Authors
