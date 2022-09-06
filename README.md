@@ -12,8 +12,8 @@ ESB(Electric Skateboard Review) is an application where peopele with the intrest
 
 
 ## Packages 
--  [Kingfisher](https://github.com/joelkab))
-- [FirebaseSDK](https://github.com/firebase/firebase-ios-sdk))
+-  [Kingfisher](https://github.com/joelkab)
+- [FirebaseSDK](https://github.com/firebase/firebase-ios-sdk)
 
 
 ## Authors
