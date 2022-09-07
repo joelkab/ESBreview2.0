@@ -4,9 +4,7 @@
 
 https://user-images.githubusercontent.com/46387248/188733148-bebf493f-a269-4592-aedd-76ca2abbe70b.mp4
 
-
-
-
+![ESBVideo_AdobeExpress](https://user-images.githubusercontent.com/46387248/188778641-432ff33f-9cb7-42e3-b57a-0c15adf7cfe8.gif)
 
 
 ESB(Electric Skateboard Review) is an application where peopele with the intrest of Electric skate boards can share thier experience of buying an eletric Skateboard, useful tips or the topic itself.
